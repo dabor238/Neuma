@@ -6,7 +6,7 @@
 /******************************************************************************************************************/
 
 /* Edit the array as you wish. It will contain the typed strings. */
-var config_typedArray = ["I am web developer.", "I am creative."];
+var config_typedArray = ["bienestar humano", "bienestrar integral"];
 
 /* Disable Parallax effect on touch devices for performance reasons. */
 var config_disableParalaxOnTouchDevices = true;
@@ -20,7 +20,7 @@ var config_videoType = 'video/mp4';
 var config_videoOpacity = 0.5;
 
 /* Google map parameters */
-var config_mapLat = 51.509036; // latitude
-var config_mapLng = -0.123280; // longitude
+var config_mapLat = -0.3047181; // latitude
+var config_mapLng = -78.4318695; // longitude
 var config_mapZoom = 16; // map zoom
-var config_mapTitle = 'My company' // marker title
+var config_mapTitle = 'Centro Neuma' // marker title
