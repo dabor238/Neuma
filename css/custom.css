@@ -323,16 +323,17 @@ nav ul li {
         margin-right: 0;
     }
 
-    .navbar-nav > li > a.active, .navbar-nav > li > a.active:focus {
-        border-top: 3px solid #dedc2c;
-    }
+        .navbar-nav > li > a.active, .navbar-nav > li > a.active:focus {
+            border-top: 3px solid #169cab;
+        }
+
 
     .navbar-nav > li > a:hover {
-        border-top: 3px solid #fffc00;
+        border-top: 3px solid #169cab;
     }
 
     .navbar-nav > li > a.active:hover {
-        border-top: 3px solid #fffc00;
+        border-top: 3px solid #169cab;
     }
 }
 
