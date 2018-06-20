@@ -342,7 +342,7 @@ nav ul li {
 /******************************************************************************************************************/
 
 .jumbotron {
-    background: url(../img/hero.jpg) repeat-y;
+    background: url(../img/fondo.jpg) repeat-y;
     background-size: cover;
     background-color: #000;
     position: relative;
