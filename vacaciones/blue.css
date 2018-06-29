@@ -238,7 +238,10 @@ header .navbar {
 /* ------------------------------------------------------------------------------- */
 
 .jumbotron {
-    background: #14c4d8 url("bg.png" /*tpa=http://diploma.coralixthemes.com/blue/img/bg.png*/ ) repeat 0 0;
+    background: #14c4d8 url("bg.png" ) repeat 0 0;
+    /*background-image: url("fondo2.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;*/
     color: #fff;
     margin-bottom: 0;
     padding-top: 200px;
